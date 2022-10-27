@@ -23,6 +23,7 @@ public class Task2 {
     for( int x = 0; x < 5 ; x++){
       warrior.physicalAttack(magician);
       System.out.println(magician);
+      System.out.println();
     }
   }
 }
