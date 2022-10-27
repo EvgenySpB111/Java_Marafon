@@ -25,7 +25,7 @@ public class Task1 {
    warrior.physicalAttack(magician);
    System.out.println(magician);
   }
- 
+
 
 
 
