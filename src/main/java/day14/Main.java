@@ -44,6 +44,7 @@ public class Main {
     }catch (Exception e) {
       System.out.println("Некорректный входной файл");
     }
+    scanner.close();
   }
 
   }

@@ -41,6 +41,7 @@ public class Main3 {
         person.add(person1);
       }
     }
+    scanner.close();
     return person;
   }
 

@@ -39,6 +39,7 @@ public class Main2 {
           people.add(s1);
         }
      }
+     scanner.close();
      return people;
   }
 
