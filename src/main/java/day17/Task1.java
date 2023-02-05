@@ -3,7 +3,7 @@ package day17;
 public class Task1 {
 
   public static void main(String[] args) {
-    
+
     ChessPiece chessPiece = ChessPiece.ROOK_BLACK;
     ChessPiece chessPiece2 = ChessPiece.KING_BLACK;
     ChessPiece chessPiece3 = ChessPiece.ROOK_WHITE;
